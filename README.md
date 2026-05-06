@@ -147,4 +147,3 @@ If you have questions or need support, please open an issue in the repository.
 
 **Last Updated**: May 2026
 
-Happy secure coding! 🔒
