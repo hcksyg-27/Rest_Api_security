@@ -1,6 +1,6 @@
 const crypto = require('crypto');
 
-const secret = "mysecretkey123";
+const secret = "yoursecretkey";
 const body = JSON.stringify({});
 
 const signature = crypto
